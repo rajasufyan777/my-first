@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout << "Hewllo,world" << endl;
+	cout << "github" << endl;
 	return 0;
 
 }
